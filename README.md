@@ -1,12 +1,5 @@
-# Capstone_Project-Playstore-App-Review-EDA-Analysis
-## Verified Project: [Credentials](https://certificates.almabetter.com/en/verify/72318421398252)
+#Playstore-App-Review-Analysis
 ## Project Type - EDA(Exploratory Data Analysis)
-## Contribution - Team
-## Team Member 1 - Vadlamani Shivani
-## Team Member 2 - Saiteja Ch
-
-## Tableau Dashboard Link - https://public.tableau.com/views/PlayStoreAppReviewAnalysis_16929861201260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 ## Project summary
 The Google Play Store and formerly the Android Market, is a digital distribution service operated and developed by Google. It serves as the official app store for certified devices running on the Android operating system and its derivatives, as well as ChromeOS, allowing users to browse and download applications developed with the Android software development kit (SDK) and published through Google. Google Play has also served as a digital media store, offering games, music, books, movies, and television programs.
 
@@ -29,26 +22,9 @@ The following are the various steps involved in the EDA process:
 6. Data Cleaning - We shall clean the dataset and handle the missing data, outliers and categorical variables.
 7. Testing Hypothesis - We shall check if our data meets the assumptions required by most of the multivariate techniques.
 
-## GitHub Link -
-Vadlamani Shivani -- https://github.com/shivanivadlamani/Play_store-App-Review-EDA-analysis.git
-
-Saiteja Ch -- https://github.com/isaiteja2/Capstone_Project-Playstore-App-Review-EDA-Analysis.git
-
 ## Problem statement
-1. What are the top categories on Play Store?
-2. Are majority of the apps Paid or Free?
-3. How importance is the rating of the application?
-4. Which categories from the audience should the app be based on?
-5. Which category has the most no. of installations?
-6. How does the count of apps varies by Genres?
-7. How does the last update has an effect on the rating?
-8. How are ratings affected when the app is a paid one?
-9. How are reviews and ratings co-related?
-10. Lets us discuss the sentiment subjectivity.
-11. Is subjectivity and polarity proportional to each other?
-12. What is the percentage of review sentiments?
-13. How is sentiment polarity varying for paid and free apps?
-14. How Content Rating affect over the App?
+The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps. Explore and analyse the data to discover key factors responsible for app engagement and success
+
 
 ### Q)Define your business objective?
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps. Explore and analyse the data to discover key factors responsible for app engagement and success.
